@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a code directory for notes using NodeJS.
+This is a code directory for notes using NodeJs.
 
 ### Tech stack
 
